@@ -38,7 +38,7 @@ const Navbar = () => {
           </div>
           <div>
             <span className="font-heading text-lg font-bold text-primary-foreground tracking-wide">
-              KARUR STEELS
+              KARUR STEELS COMPANY
             </span>
           </div>
         </Link>
@@ -52,7 +52,7 @@ const Navbar = () => {
               className={`font-heading text-sm tracking-widest uppercase transition-colors hover:text-accent ${
                 location.pathname === item.path
                   ? "text-accent"
-                  : "text-primary-foreground/80"
+                  : "text-black/80"
               }`}
             >
               {item.label}
