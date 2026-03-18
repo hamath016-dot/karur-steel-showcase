@@ -83,7 +83,7 @@ const Contact = () => {
             <h3 className="font-heading text-2xl font-bold text-foreground mb-6">Get in Touch</h3>
             <div className="space-y-5">
               {[
-                { icon: MapPin, label: "Address", value: "Main Road, Karur, Tamil Nadu 639001" },
+                { icon: MapPin, label: "Address", value: "9/67-1, chinnandankovil road, Periyar arch east, Aravind nagar, Karur, Tamil Nadu 639002" },
                 { icon: Phone, label: "Phone", value: "+91 9842448098", href: "tel:+919842448098" },
                 { icon: Mail, label: "Email", value: "info@karursteels.com", href: "mailto:info@karursteels.com" },
               ].map((item) => (
@@ -120,8 +120,7 @@ const Contact = () => {
             <div className="overflow-hidden rounded-lg border border-border">
               <iframe
                 title="Karur Steels Location"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d125322.40174389189!2d78.0072!3d10.9601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baa2f8718b69c47%3A0x5f9f74e5ab5ec7b2!2sKarur%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
-                width="100%"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3524.222158628743!2d78.05978100624272!3d10.951943187660948!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baa2f007331cbef%3A0x6df76496c2aa55b3!2sKARUR%20STEEL%20COMPANY!5e0!3m2!1sen!2sin!4v1773809349702!5m2!1sen!2sin"
                 height="250"
                 style={{ border: 0 }}
                 allowFullScreen

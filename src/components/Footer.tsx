@@ -36,12 +36,12 @@ const Footer = () => (
           <div className="flex flex-col gap-3 text-sm text-primary-foreground/70">
             <div className="flex items-center gap-2">
               <MapPin size={16} className="text-accent shrink-0" />
-              <span>Main Road, Karur, Tamil Nadu 639001</span>
+              <span>9/67-1, chinnandankovil road, Periyar arch east, Karur-639002</span>
             </div>
             <div className="flex items-center gap-2">
               <Phone size={16} className="text-accent shrink-0" />
-              <a href="tel:+919876543210" className="hover:text-accent transition-colors">
-                +91 98765 43210
+              <a href="tel:+919842448098" className="hover:text-accent transition-colors">
+                +91 9842448098
               </a>
             </div>
             <div className="flex items-center gap-2">
