@@ -84,7 +84,7 @@ const Contact = () => {
             <div className="space-y-5">
               {[
                 { icon: MapPin, label: "Address", value: "Main Road, Karur, Tamil Nadu 639001" },
-                { icon: Phone, label: "Phone", value: "+91 98765 43210", href: "tel:+919876543210" },
+                { icon: Phone, label: "Phone", value: "+91 9842448098", href: "tel:+919842448098" },
                 { icon: Mail, label: "Email", value: "info@karursteels.com", href: "mailto:info@karursteels.com" },
               ].map((item) => (
                 <div key={item.label} className="flex items-start gap-4">
@@ -107,7 +107,7 @@ const Contact = () => {
 
             {/* WhatsApp */}
             <a
-              href="https://wa.me/919876543210"
+              href="https://wa.me/919842448098"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 rounded-lg bg-green-600 px-6 py-3 font-semibold text-accent-foreground transition-transform hover:scale-105 w-fit"

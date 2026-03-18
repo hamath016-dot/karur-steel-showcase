@@ -43,7 +43,7 @@ const Products = () => (
                 {product.description}
               </p>
               <a
-                href="https://wa.me/919876543210"
+                href="https://wa.me/919842448098"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-4 inline-block text-sm font-semibold text-accent hover:underline"
